@@ -1,4 +1,4 @@
-Created using create-react-app , bottstrap 5.3.2 and news api 
+Created using create-react-app , bottstrap 5.3 and news api 
 
  ED-News app 
 
